@@ -178,7 +178,7 @@
 	<path name="audio-record">
 		<ctl name="MultiMedia1 Mixer SLIM_0_TX" value="1" />
 	</path>
-
+        <ctl name="AUX PCM SampleRate" value="48000" />
 	<path name="audio-record bt-sco">
 		<ctl name="Internal BTSCO SampleRate" value="8000" />
 		<ctl name="MultiMedia1 Mixer INTERNAL_BT_SCO_TX" value="1" />
